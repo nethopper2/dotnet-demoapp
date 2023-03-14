@@ -187,4 +187,5 @@ make deploy
 
 test
 test
+test
 
